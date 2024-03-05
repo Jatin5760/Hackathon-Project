@@ -1,0 +1,20 @@
+{
+    "navigationTabs": [
+      {
+        "title": "Dashboard",
+        "link": "./y-events-cards-list/dashboard.html"
+      },
+      {
+        "title": "Events",
+        "link": "./y-events-cards-list/index1.html"
+      },
+      {
+        "title": "Club Recruitment",
+        "link": "./Club Recuitment/ClubRecuitment.html"
+      },
+      {
+        "title": "Club Formation",
+        "link": "#"
+      }
+    ]
+  }
